@@ -10,11 +10,11 @@
 
 
 
-- 🔭 I’m currently working on **Online Notepad Preject**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently working on **Online Notepad Project**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌱 I’m currently learning **New Skills**
 
-- 👯 I’m looking to collaborate on **Online Notepad Preject**
+- 👯 I’m looking to collaborate on **Online Notepad Project**
 
 - 📝 I regularly write articles on [medium](medium)
 
