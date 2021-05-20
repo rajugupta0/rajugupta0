@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Raju Gupta</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3 align="center">I'm a Software Engineer,Developer,Investor and Entrepreneur!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajugupta0&label=Profile%20views&color=0e75b6&style=flat" alt="rajugupta0" /> </p>
 
 <p align="left"> <a href="https://twitter.com/raju_gupta0" target="blank"><img src="https://img.shields.io/twitter/follow/raju_gupta0?logo=twitter&style=for-the-badge" alt="raju_gupta0" /></a> </p>
 
-- 🔭 I’m currently working on **Online Notepad Preject**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me....
+
+
+
+- 🔭 I’m currently working on **Online Notepad Preject**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌱 I’m currently learning **New Skills**
 
@@ -19,7 +24,7 @@
 
 - ⚡ Fun fact **i used to go Gym.**
 
-<h3 align="left">Connect with me:</h3>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <p align="left">
 <a href="https://twitter.com/raju_gupta0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="raju_gupta0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajugupta0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="rajugupta0" height="30" width="40" /></a>
