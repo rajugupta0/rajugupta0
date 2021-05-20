@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raju Gupta</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h3 align="center">I'm a Software Engineer,Developer,Investor and Entrepreneur!!</h3>
+<h3 align="center">I'm a Software Engineer, Developer, Investor and Entrepreneur!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajugupta0&label=Profile%20views&color=0e75b6&style=flat" alt="rajugupta0" /> </p>
 
