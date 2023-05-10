@@ -1,28 +1,32 @@
-<h1 align="center">Hi 👋, I'm Raju Gupta</h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h3 align="center">I'm a Software Engineer, Developer, Investor!</h3>
+<h1 align="center">Hi, I'm Raju Gupta</h1>
+<p align="center">
+  <img align="center" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="230">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajugupta0&label=Profile%20views&color=0e75b6&style=flat" alt="rajugupta0" /> </p>
+<p align="center">I'm a software engineer with a passion for creating innovative solutions to real-world problems.</p>
 
-<p align="left"> <a href="https://twitter.com/raju_gupta0" target="blank"><img src="https://img.shields.io/twitter/follow/raju_gupta0?logo=twitter&style=for-the-badge" alt="raju_gupta0" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/raju_gupta0" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raju_gupta0?style=flat-square&logo=twitter"></a>
+  <a href="https://www.linkedin.com/in/raju-gupta0/" target="_blank"><img alt="LinkedIn Connect" src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raju-gupta0/"></a>
+  <a href="https://raju-gupta.hashnode.dev/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-Visit-orange?style=flat-square&logo=hashnode"></a>
+  <a href="mailto:raju200115@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail"></a>
+</p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me....
+### About Me
 
+- 🔭 I’m currently working on **building scalable and performant web applications**.
 
+- 🌱 I’m constantly learning and improving my skills, and currently focusing on mastering **Node**.
 
-- 🔭 I’m currently working on **Twitter-clone Backend Project**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<!-- - 💼 I am currently working as a Software Engineer, and previously worked as a Full Stack Developer for several years. -->
 
-- 🌱 I’m currently learning **React**
+- 📝 I enjoy writing and sharing my knowledge, and regularly publish articles on my [personal blog](https://raju-gupta.hashnode.dev/).
 
-<!-- - 👯 I’m looking to collaborate on **Online Notepad Project** -->
+- 💬 Feel free to reach out to me with any questions or ideas! You can contact me via email at **raju200115@gmail.com** or connect with me on [Twitter](https://twitter.com/raju_gupta0).
 
-- 📝 I regularly write articles on [hashnode]
+- ⚡ Fun fact: In my free time, I love to stay active by going to the gym and practicing yoga.
 
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **raju200115@gmail.com**
-
-- ⚡ Fun fact **i used to go Gym.**
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-<p align="centre">
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <em><b>I love connecting with different people</b>, so don't hesitate to reach out if you'd like to chat!</em>
+</p>
