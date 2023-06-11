@@ -1,32 +1,54 @@
-<h1 align="center">Hi, I'm Raju Gupta</h1>
-<p align="center">
-  <img align="center" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="230">
-</p>
-
-<p align="center">I'm a software engineer with a passion for creating innovative solutions to real-world problems.</p>
+<h1 align="center">Raju Gupta</h1>
 
 <p align="center">
-  <a href="https://twitter.com/raju_gupta0" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raju_gupta0?style=flat-square&logo=twitter"></a>
-  <a href="https://www.linkedin.com/in/raju-gupta0/" target="_blank"><img alt="LinkedIn Connect" src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raju-gupta0/"></a>
-  <a href="https://raju-gupta.hashnode.dev/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-Visit-orange?style=flat-square&logo=hashnode"></a>
-  <a href="mailto:raju200115@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail"></a>
+  <a href="https://twitter.com/raju_gupta0" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raju_gupta0?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/raju-gupta0/" target="_blank">
+    <img alt="LinkedIn Connect" src="https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://raju-gupta.hashnode.dev/" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-Visit-orange?style=for-the-badge&logo=hashnode&logoColor=white">
+  </a>
+  <a href="mailto:raju200115@gmail.com">
+    <img alt="Email Me" src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
-### About Me
+<p align="center">🚀 Software Engineer | Node.js | Full Stack Development</p>
 
-- 🔭 I’m currently working on **building scalable and performant web applications**.
+<p align="center">Results-driven software engineer with a passion for creating innovative solutions to real-world problems. I specialize in building scalable and performant web applications, leveraging my expertise in Node.js and full stack development. I thrive in collaborative environments and love tackling complex challenges.</p>
 
-- 🌱 I’m constantly learning and improving my skills, and currently focusing on mastering **Node**.
+<h2 align="center">💼 Skills</h2>
 
-<!-- - 💼 I am currently working as a Software Engineer, and previously worked as a Full Stack Developer for several years. -->
+<p align="center">
+  <strong>Languages:</strong> JavaScript, HTML, CSS<br>
+  <strong>Frameworks/Libraries:</strong> Node.js, React, Express.js<br>
+  <strong>Databases:</strong> MongoDB, MySQL<br>
+  <strong>Version Control:</strong> Git, GitHub<br>
+  <strong>Other Tools:</strong> VS Code, Postman, AWS, Linux
+</p>
 
-- 📝 I enjoy writing and sharing my knowledge, and regularly publish articles on my [personal blog](https://raju-gupta.hashnode.dev/).
+<h2 align="center">📝 Blog</h2>
 
-- 💬 Feel free to reach out to me with any questions or ideas! You can contact me via email at **raju200115@gmail.com** or connect with me on [Twitter](https://twitter.com/raju_gupta0).
+<p align="center">
+  I regularly share my knowledge and insights on my personal <a href="https://raju-gupta.hashnode.dev/">blog</a>. Take a look at some of my recent articles:
+</p>
 
-- ⚡ Fun fact: In my free time, I love to stay active by going to the gym and practicing yoga.
+<p align="center">
+  <a href="https://raju-gupta.hashnode.dev/article-1">Title of Article 1</a><br>
+  <a href="https://raju-gupta.hashnode.dev/article-2">Title of Article 2</a>
+</p>
+
+<h2 align="center">📬 Get in Touch</h2>
+
+<p align="center">
+  I'm always open to new opportunities, collaborations, or simply connecting with like-minded professionals. Feel free to reach out to me via email at <a href="mailto:raju200115@gmail.com">raju200115@gmail.com</a> or through any of the social media links above. Let's connect and discuss how we can create impactful solutions together!
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <em><b>I love connecting with different people</b>, so don't hesitate to reach out if you'd like to chat!</em>
+  <br>
+  <em><strong>I love connecting with different people</strong>, so don't hesitate to reach out if you'd like to chat!</em>
 </p>
+
