@@ -1,4 +1,4 @@
-<h1 align="center">Raju Gupta</h1>
+   <h1 align="center">Raju Gupta</h1>
 
 <p align="center">
   <a href="https://twitter.com/raju_gupta0" target="_blank">
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <a href="https://raju-gupta.hashnode.dev/article-1">Title of Article 1</a><br>
+  <a href="[https://raju-gupta.hashnode.dev/article-1](https://codenirvanaraju.hashnode.dev/building-a-telegram-bot-with-npm-telegraf-package-a-step-by-step-guide)">building-a-telegram-bot-with-npm-telegraf-package-a-step-by-step-guide</a><br>
   <a href="https://raju-gupta.hashnode.dev/article-2">Title of Article 2</a>
 </p>
 
