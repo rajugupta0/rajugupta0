@@ -1,6 +1,6 @@
 # Raju Gupta
 
-🚀 **Software Developer | Full Stack Development**
+🚀 **Software Developer | Full Stack Development | Freelancer**
 
 💼 **Skills**
 
